@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="apps/LanguageExtCli/LanguageExtCli.csproj" />
+  <Project Path="libs/LanguageExtLib/LanguageExtLib.csproj" />
+  <Project Path="libs/LanguageExtLib.Test/LanguageExtLib.Test.csproj" />
+</Solution>
