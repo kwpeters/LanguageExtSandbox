@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\LanguageExtLib\LanguageExtLib.csproj" />
+    <ProjectReference Include="..\..\libs\LanguageExtLib\LanguageExtLib.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
